@@ -24,6 +24,8 @@
   margin: 0;
   padding: 10px;
   overflow: hidden;
+  font-weight: normal;
+  font-size: 16px;
   background: #131516;
   color: #f2f3f4;
 }
